@@ -1,2 +1,3 @@
 1st line added inside master branch
 2nd line added inside master branch
+3rd line added inside my-new-branch 
